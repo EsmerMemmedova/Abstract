@@ -1,0 +1,14 @@
+C:\Users\2022\Desktop\Abstract\bin\Debug\net6.0\Abstract.exe
+C:\Users\2022\Desktop\Abstract\bin\Debug\net6.0\Abstract.deps.json
+C:\Users\2022\Desktop\Abstract\bin\Debug\net6.0\Abstract.runtimeconfig.json
+C:\Users\2022\Desktop\Abstract\bin\Debug\net6.0\Abstract.dll
+C:\Users\2022\Desktop\Abstract\bin\Debug\net6.0\Abstract.pdb
+C:\Users\2022\Desktop\Abstract\obj\Debug\net6.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022\Desktop\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfoInputs.cache
+C:\Users\2022\Desktop\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfo.cs
+C:\Users\2022\Desktop\Abstract\obj\Debug\net6.0\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\Abstract\obj\Debug\net6.0\Abstract.dll
+C:\Users\2022\Desktop\Abstract\obj\Debug\net6.0\refint\Abstract.dll
+C:\Users\2022\Desktop\Abstract\obj\Debug\net6.0\Abstract.pdb
+C:\Users\2022\Desktop\Abstract\obj\Debug\net6.0\Abstract.genruntimeconfig.cache
+C:\Users\2022\Desktop\Abstract\obj\Debug\net6.0\ref\Abstract.dll
